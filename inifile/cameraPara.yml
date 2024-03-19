@@ -1,0 +1,26 @@
+%YAML:1.0
+---
+CAMERA_MAIN:
+    Manufacturers: 0
+    HIKcamera:
+        Num: 1
+        Type: 0
+        Gain: 9.0
+        BlackLevel: 0
+        Gamma: 1.0
+        ExposureTime: 4000
+        BalanceRatio_R: 750
+        BalanceRatio_G: 730
+        BalanceRatio_B: 800
+        SerialNumber: DA0416060
+    FLIRcamera:
+        Num: 1
+        Type: 0
+        Gain: 9.0
+        BlackLevel: 0
+        Gamma: 1.0
+        ExposureTime: 4000
+        BalanceRatio_R: 750
+        BalanceRatio_G: 730
+        BalanceRatio_B: 800
+        SerialNumber: DA0416060
