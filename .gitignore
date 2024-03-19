@@ -4,6 +4,6 @@
 .vscode
 *.log
 build
-asdata
-aslog
-asimg
+!asdata
+!aslog
+!asimg
